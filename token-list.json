@@ -1,8 +1,11 @@
-
 {
   "name": "Ballerina Cappuccina List",
   "timestamp": "2025-05-27T12:00:00+00:00",
-  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
   "tokens": [
     {
       "chainId": 137,
@@ -10,7 +13,7 @@
       "symbol": "BALERINA",
       "name": "Ballerina Cappuccina",
       "decimals": 18,
-      "logoURI": "logoURI": "https://raw.githubusercontent.com/Ballerina-Cappuccina/BallerinaCappuccinalist/main/Ballerina-Cappuccina-Icon-512x512-1.png"
+      "logoURI": "https://raw.githubusercontent.com/Ballerina-Cappuccina/BallerinaCappuccinalist/main/Ballerina-Cappuccina-Icon-512x512-1.png"
     }
   ]
 }
